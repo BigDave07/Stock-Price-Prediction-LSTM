@@ -6,7 +6,7 @@ This project demonstrates how to use a Long Short-Term Memory (LSTM) neural netw
 
 The notebook performs the following steps:
 
-1.  **Data Acquisition**: Downloads historical daily stock price data for a specified ticker (NVDA in this case) using the `yfinance` library.
+1.  **Data Acquisition**: Downloads historical daily stock price data for a specified ticker (NVDIA in this case) using the `yfinance` library.
 2.  **Data Preprocessing**:
     *   Keeps only the 'Close' price column.
     *   Handles missing values.
